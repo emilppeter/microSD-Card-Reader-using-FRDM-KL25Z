@@ -1,1 +1,1 @@
-# µ-SD-Card-Reader-using-FRDM-KL25Z
+# µSD-Card-Reader-using-FRDM-KL25Z
